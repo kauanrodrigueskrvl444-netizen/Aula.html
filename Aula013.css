@@ -1,0 +1,28 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: sans-serif;
+}
+.bg {
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    background-attachment: fixed;
+}
+ 
+ .banner1  {
+    background-image: url("../img/crumpled-paper-texture_1048-1143.avif");
+  
+ }
+ .banner2 {
+     background-image: url("../img/liquify-cololurful-abstract-background-wallpaper-premium-photo-premium-vector_648404-78.avif");
+ }
+  .banner3 {
+    background-image: url("../img/abstract-colorful-paint-stroke-background_53876-104827.avif");
+  }
